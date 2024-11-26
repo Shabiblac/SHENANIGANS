@@ -14,12 +14,12 @@ A modern and professional CV built using **Semantic HTML**, designed for future 
 ---
 
 ## **Project URL**
-Visit the live project here: [ https://shabiblac.github.io/SHENANIGANS/](https://your-website-url.com)
+Visit the live project here: [My CV](https://shabiblac.github.io/SHENANIGANS/)
 
 ---
 
-## **RoadMap Project URL**
-Visit the live project here: [ https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
+## **Project Template**
+Visit the project template here: [RoadMap Template](https://roadmap.sh/projects/single-page-cv)
 
 ---
 
