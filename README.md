@@ -1,4 +1,3 @@
-https://roadmap.sh/projects/single-page-cv
 # **My CV Project**
 
 A modern and professional CV built using **Semantic HTML**, designed for future styling and SEO optimization. This project is structured to be user-friendly, SEO-ready, and optimized for social media sharing with **Open Graph tags**. A favicon has been included for better branding.
